@@ -3,7 +3,7 @@
 #FUTURE
 - Works on windows 10 build +1809
 - Please watch my video on youtube how to build it!
-- YouTbe channel name Dark7oveRR
+- YouTbe channel name EvilHax
 
 #Website
 - https://evilhax.xyz
